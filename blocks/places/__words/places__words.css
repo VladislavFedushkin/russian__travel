@@ -1,0 +1,23 @@
+.places__words {
+  max-width: 484px;
+  margin: 0;
+  font-family: 'Inter' Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
+
+}
+
+.places__words:first-child {
+  margin-bottom: 48px;
+}
+
+@media screen and (max-width: 320px) {
+  .places__words {
+    margin: 0;
+    padding: 0 16px 0px;
+  }
+  
+}

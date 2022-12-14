@@ -1,0 +1,26 @@
+.places__site {
+  display: block;
+  max-width: 456px;
+  margin-top: 12px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height, or 122% */
+
+  text-decoration-line: underline;
+
+  color: #FFFFFF;
+}
+
+.places__site:hover {
+  opacity: 0.8;
+  transition: 0.35s;
+  }
+
+  @media screen and (max-width: 768px) {
+    .places__site {
+    max-width: 352px;
+    }
+    
+  }
