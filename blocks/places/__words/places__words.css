@@ -1,6 +1,5 @@
 .places__words {
   max-width: 484px;
-  margin: 0;
   font-family: 'Inter' Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -14,19 +13,4 @@
   margin-bottom: 48px;
 }
 
-@media screen and (max-width: 320px) {
-  .places__words {
-    margin: 0;
-    padding: 0 16px 0px;
-  }
-  
-}
 
-/* @media screen and (max-width: 768px) {
-  .places__words {
-   max-width: 370px;
-   margin: 0;
-  padding: 0 16px 0px;
-  }
-  
-} */

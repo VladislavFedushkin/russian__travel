@@ -5,8 +5,8 @@
   grid-row-gap: 48px;
   grid-template-columns: repeat(auto-fit, minmax(268px, auto));
   max-width: 984px;
-  margin-top: 80px;
   padding-left: 148px;
+  padding-top: 80px;
 }
 
 .places__conteiner:first-child {
