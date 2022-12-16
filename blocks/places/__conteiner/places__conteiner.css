@@ -3,11 +3,10 @@
   margin: 0 auto;
   grid-column-gap: 48px;
   grid-row-gap: 48px;
-  grid-template-columns: repeat(auto-fit, minmax(268px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
   max-width: 984px;
-  padding-left: 148px;
   padding-top: 80px;
-  justify-items: center;
+  /* justify-items: center; */
 }
 
 .places__conteiner:first-child {
