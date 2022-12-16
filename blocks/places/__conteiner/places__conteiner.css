@@ -7,6 +7,7 @@
   max-width: 984px;
   padding-left: 148px;
   padding-top: 80px;
+  justify-items: center;
 }
 
 .places__conteiner:first-child {
@@ -31,6 +32,8 @@
   }
   
 }
+
+
 
 @media screen and (max-width: 320px) {
   .places__conteiner {

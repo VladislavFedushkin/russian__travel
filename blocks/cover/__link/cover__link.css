@@ -3,7 +3,7 @@
   max-width: 1184px;
   width: 100%;
   min-height: 740px;
-  background-size: contain;
+  background-size: cover;
   color: white;
   position: relative;
   display: flex;
@@ -30,7 +30,6 @@
 }
 
 .cover__link:hover::before {
-background-color: #2a2c2f;
  opacity: 0.8;
 }
 
@@ -48,6 +47,14 @@ background-color: #2a2c2f;
   max-width: 768px;
   min-height: 480px;
   margin: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__link {
+    max-width: 768px;
+    min-height: 480px;
+    margin: 0;
   }
 }
 
