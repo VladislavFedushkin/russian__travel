@@ -1,14 +1,12 @@
 .lead {
   padding: 56px 148px 0;
   max-width: 984px;
-  min-height: 1005px;
 }
 
 @media screen and (max-width: 1024px) {
   .lead {
     padding: 48px 48px 0px;
     max-width: 968px;
-    min-height: 962px;
   }
   
 }
@@ -17,7 +15,6 @@
   .lead {
     padding: 48px 0 0 0;
     max-width: 768px;
-    min-height: 862px;
   }
   
 }
@@ -25,7 +22,6 @@
 @media screen and (max-width: 320px) {
   .lead {
     max-width: 320px;
-    min-height: 406px;
   }
   
 }

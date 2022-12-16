@@ -4,7 +4,7 @@
   font-family: 'Inter' Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 163%;
   color: #FFFFFF;
 
@@ -21,3 +21,12 @@
   }
   
 }
+
+/* @media screen and (max-width: 768px) {
+  .places__words {
+   max-width: 370px;
+   margin: 0;
+  padding: 0 16px 0px;
+  }
+  
+} */

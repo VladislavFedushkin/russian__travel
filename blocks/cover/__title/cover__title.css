@@ -12,6 +12,19 @@
   color: #FFFFFF;
 }
 
+@media screen and (max-width: 767px) {
+  .cover__title {
+  max-width: 288px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  /* or 109% */
+  margin: 0 auto 16px;
+  /* margin-bottom: 16px; */
+    }
+  
+}
+
 @media screen and (max-width: 320px) {
   .cover__title {
   max-width: 288px;
