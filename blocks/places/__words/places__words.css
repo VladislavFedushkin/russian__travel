@@ -14,3 +14,8 @@
 }
 
 
+@media screen and (max-width: 320px) {
+  .places__words {
+    padding-top: 6px;
+    }   
+    }
