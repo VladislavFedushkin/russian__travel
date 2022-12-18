@@ -4,15 +4,21 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 163%;
+  line-height: 26px;
   color: #FFFFFF;
   margin: 0;
 }
 
 .places__words:first-child {
-  margin-bottom: 48px;
+  margin-bottom: 6px;
 }
 
+
+@media screen and (max-width: 768px) {
+  .places__words {
+    margin-bottom: 25px;
+    }   
+    }
 
 @media screen and (max-width: 320px) {
   .places__words {

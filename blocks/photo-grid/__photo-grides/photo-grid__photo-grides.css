@@ -19,6 +19,7 @@
 @media screen and (max-width: 768px) {
   .photo-grid__photo-grides {
     max-width: 720px;
+    gap: 16px;
   }
   
 }
