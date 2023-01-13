@@ -1,28 +1,27 @@
 .lead__image {
   display: block;
   width: 100%;
-  margin-top: 40px;
+  margin-top: 64px;
 }
 
-/* @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1024px) {
   .lead__image {
-    max-width: 928px;
-    max-height: 580px;
+   margin-top: 57px;
   }
   
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .lead__image {
     max-width: 768px;
     max-height: 480px;
   }
-  
-}
+    */
+/* } */
 
 @media screen and (max-width: 320px) {
   .lead__image {
     margin-top: 40px;
   }
   
-} */
+} 

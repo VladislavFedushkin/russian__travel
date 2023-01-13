@@ -1,16 +1,17 @@
 .places__site {
   display: block;
   max-width: 456px;
-  margin-top: 12px;
   font-family: 'Inter', Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  /* identical to box height, or 122% */
-  margin: 14px 0 7px 0;
+  margin: 12px 0 -2px 0;
   text-decoration-line: underline;
-
   color: #FFFFFF;
+}
+
+.places__site:first-child {
+  margin: 11px 0 0 0;
 }
 
 .places__site:hover {
@@ -21,6 +22,15 @@
   @media screen and (max-width: 768px) {
     .places__site {
     max-width: 352px;
+    }
+    
+  }
+
+
+  @media screen and (max-width: 320px) {
+    .places__site {
+    margin: 0;
+    margin-top: 12px;
     }
     
   }

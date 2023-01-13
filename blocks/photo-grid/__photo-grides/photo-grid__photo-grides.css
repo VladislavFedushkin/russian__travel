@@ -29,7 +29,6 @@
   .photo-grid__photo-grides {
   gap: 12px;
   max-width: 288px;
-  row-gap: 12px;
   }
   
 }

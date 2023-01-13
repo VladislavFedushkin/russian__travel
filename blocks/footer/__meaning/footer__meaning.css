@@ -3,6 +3,7 @@
   margin-right: 18px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
+  margin: 0;
 }
 
 @media screen and (max-width: 320px) {
@@ -12,8 +13,4 @@
   line-height: 24px;
   }
 
-
-  .footer__meaning:last-child {
-    margin: 0;
-  }
 }

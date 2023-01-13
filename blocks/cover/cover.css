@@ -1,2 +1,12 @@
+@media screen and (max-width: 768px) {
+  .cover {
+    padding-top: 64px;
+  }
+}
 
+@media screen and (max-width: 320px) {
+  .cover {
+    padding-top: 27px;
+  }
+}
 
