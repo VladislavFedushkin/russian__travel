@@ -1,7 +1,5 @@
-
-
 @media screen and (max-width: 320px) {
-  .places__words_text{
+  .places__words_text {
     padding-right: 5px;
     margin: 0;
   }

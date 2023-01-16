@@ -1,6 +1,6 @@
 .places__foto {
-    max-width: 460px;
-    width: 100%;
+  max-width: 460px;
+  width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
@@ -8,7 +8,6 @@
     max-width: 440px;
     max-height: 440px;
   }
-  
 }
 
 @media screen and (max-width: 768px) {
@@ -16,7 +15,6 @@
     max-width: 340px;
     max-height: 340px;
   }
-  
 }
 
 @media screen and (max-width: 320px) {
@@ -24,5 +22,4 @@
     max-width: 320px;
     max-height: 320px;
   }
-  
 }

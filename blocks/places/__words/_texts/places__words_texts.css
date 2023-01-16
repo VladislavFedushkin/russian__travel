@@ -1,0 +1,13 @@
+@media screen and (max-width: 1280px) {
+  .places__words_texts {
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__words_texts {
+    padding-right: 12px;
+  }
+}
+
+
