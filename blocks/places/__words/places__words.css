@@ -13,18 +13,20 @@
   margin-bottom: 26px;
 }
 
+.places__words:last-child {
+  margin-bottom: 0px;
+}
+
 @media screen and (max-width: 768px) {
   .places__words {
     margin-bottom: 25px;
     font-size: 16px;
     line-height: 26px;
-    margin: 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places__words {
-    margin: 0;
-    /* padding-right: 16px; */
+   margin-bottom: 0;
   }
 }

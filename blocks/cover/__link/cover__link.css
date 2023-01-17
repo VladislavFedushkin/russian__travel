@@ -1,5 +1,5 @@
 .cover__link {
-  background-image: url(../../../images/cover-trains.jpg);
+  background-image: url(../../../Images/cover-trains.jpg);
   max-width: 1184px;
   width: 100%;
   min-height: 740px;
@@ -15,7 +15,6 @@
   background-repeat: no-repeat;
   background-position: center;
   z-index: 0;
-
 }
 
 .cover__link::before {
