@@ -1,0 +1,22 @@
+.footer__direct {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding-right: 19px;
+}
+
+.footer__direct:hover {
+  opacity: 0.8;
+  transition: 0.35s;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__direct {
+    max-width: 352px;
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,25 @@
+.places__foto {
+  max-width: 460px;
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__foto {
+    max-width: 440px;
+    max-height: 440px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__foto {
+    max-width: 340px;
+    max-height: 340px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__foto {
+    max-width: 320px;
+    max-height: 320px;
+  }
+}
