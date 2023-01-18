@@ -22,11 +22,11 @@
 @import url(../blocks/places/__container/places__container.css);
 @import url(../blocks/places/__foto/places__foto.css);
 @import url(../blocks/places/__site/places__site.css);
-@import url(../blocks/places/__paragraph/places__paragraph.css);
+@import url(../blocks/places/__paragraphs/places__paragraphs.css);
 @import url(../blocks/places/__title/places__title.css);
 @import url(../blocks/places/__url-heading/places__url-heading.css);
 @import url(../blocks/places/__website/places__website.css);
-@import url(../blocks/places/__words/places__words.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
